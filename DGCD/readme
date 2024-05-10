@@ -1,0 +1,18 @@
+# DGCD: An Adaptive Denoising GNN for Group-level Cognitive Diagnosis
+
+## Overview 
+Official code for article "[DGCD: An Adaptive Denoising GNN for Group-level Cognitive Diagnosis(IJCAI-24)](https://github.com/BIMK/Intelligent-Education/tree/main/DGCD)".
+
+## Citation
+If you find our work is useful for your research, please consider citing:
+```
+@inproceedings{song_2024_DGCD,
+  title={DGCD: An Adaptive Denoising GNN for Group-level Cognitive Diagnosis.},
+  author={Ma, Haiping and Song, Siyu and Qin, chuan and Yu, Xiaoshan and Zhang, Limiao and Zhang, Xingyi and Zhu, Hengshu},
+  booktitle = {Proceedings of the 33th International Joint Conference on Artificial Intelligence},
+  year={2024}
+}
+```
+
+## License
+This project is licensed under the MIT License.
